@@ -7,7 +7,7 @@ Polynomial regression using a pipeline
 Log transformation to handle skewed prices
 
 Stack Used:
-Python
-Pandas, NumPy
-Matplotlib, Seaborn
+Python,
+Pandas, NumPy,
+Matplotlib, Seaborn,
 Scikit-learn
